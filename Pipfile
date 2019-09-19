@@ -12,6 +12,8 @@ request = "*"
 requests = "*"
 lxml = "*"
 enum = "*"
+pymongo = "*"
+xlrd = "*"
 
 [requires]
 python_version = "3.7"
